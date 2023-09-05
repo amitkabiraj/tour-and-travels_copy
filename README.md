@@ -1,5 +1,5 @@
 # tour-and-travels
-
+first copy
 This is my another project in Python/Django. 
 
 I have used technologies such as -  HTML5, CSS3, Bootsrtap, JavaScript, Pillow library of Python for working with images.
